@@ -1,7 +1,7 @@
 {
   "name": "uRemoTech",
   "short_name": "uRemoTech",
-  "lang": "en-gb",
+  "lang": "de-de",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
+  "start_url": "/de/?utm_source=web_app_manifest"
 }
