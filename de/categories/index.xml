@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | uRemoTech</title>
-    <link>https://uRemotech.com/de/categories/</link>
-      <atom:link href="https://uRemotech.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://uRemotech.de/de/categories/</link>
+      <atom:link href="https://uRemotech.de/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language>
     <image>
-      <url>https://uRemotech.com/media/logo_hu4d3bca5431412428079bab8ed867ba32_4712_300x300_fit_lanczos_3.png</url>
+      <url>https://uRemotech.de/media/logo_hu4d3bca5431412428079bab8ed867ba32_4712_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>https://uRemotech.com/de/categories/</link>
+      <link>https://uRemotech.de/de/categories/</link>
     </image>
     
   </channel>

@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://uRemotech.com/sitemap.xml
+Sitemap: https://uRemotech.de/sitemap.xml

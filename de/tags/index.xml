@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | uRemoTech</title>
-    <link>https://uRemotech.com/de/tags/</link>
-      <atom:link href="https://uRemotech.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://uRemotech.de/de/tags/</link>
+      <atom:link href="https://uRemotech.de/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language>
     <image>
-      <url>https://uRemotech.com/media/logo_hu4d3bca5431412428079bab8ed867ba32_4712_300x300_fit_lanczos_3.png</url>
+      <url>https://uRemotech.de/media/logo_hu4d3bca5431412428079bab8ed867ba32_4712_300x300_fit_lanczos_3.png</url>
       <title>Tags</title>
-      <link>https://uRemotech.com/de/tags/</link>
+      <link>https://uRemotech.de/de/tags/</link>
     </image>
     
   </channel>

@@ -4,44 +4,34 @@
   
   
   <url>
-    <loc>https://uRemotech.com/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><xhtml:link
+    <loc>https://uRemotech.de/en/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://uRemotech.com/de/terms/"
+      href="https://uRemotech.de/terms/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://uRemotech.com/terms/"
+      href="https://uRemotech.de/en/terms/"
     /></url>
   <url>
-    <loc>https://uRemotech.com/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><xhtml:link
+    <loc>https://uRemotech.de/en/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://uRemotech.com/de/privacy/"
+      href="https://uRemotech.de/privacy/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://uRemotech.com/privacy/"
+      href="https://uRemotech.de/en/privacy/"
     /></url>
   <url>
-    <loc>https://uRemotech.com/admin/</loc><xhtml:link
+    <loc>https://uRemotech.de/en/admin/</loc><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://uRemotech.com/de/admin/"
+      href="https://uRemotech.de/admin/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://uRemotech.com/admin/"
-    /></url>
-  <url>
-    <loc></loc><xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
+      href="https://uRemotech.de/en/admin/"
     /></url>
   <url>
     <loc></loc><xhtml:link
@@ -54,42 +44,52 @@
       href=""
     /></url>
   <url>
-    <loc>https://uRemotech.com/categories/</loc><xhtml:link
+    <loc></loc><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://uRemotech.com/de/categories/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://uRemotech.com/categories/"
+      href=""
     /></url>
   <url>
-    <loc>https://uRemotech.com/publication_types/</loc><xhtml:link
+    <loc>https://uRemotech.de/en/categories/</loc><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://uRemotech.com/de/publication_types/"
+      href="https://uRemotech.de/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://uRemotech.com/publication_types/"
+      href="https://uRemotech.de/en/categories/"
     /></url>
   <url>
-    <loc>https://uRemotech.com/tags/</loc><xhtml:link
+    <loc>https://uRemotech.de/en/publication_types/</loc><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://uRemotech.com/de/tags/"
+      href="https://uRemotech.de/publication_types/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://uRemotech.com/tags/"
+      href="https://uRemotech.de/en/publication_types/"
     /></url>
   <url>
-    <loc>https://uRemotech.com/</loc><xhtml:link
+    <loc>https://uRemotech.de/en/tags/</loc><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://uRemotech.com/de/"
+      href="https://uRemotech.de/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://uRemotech.com/"
+      href="https://uRemotech.de/en/tags/"
+    /></url>
+  <url>
+    <loc>https://uRemotech.de/en/</loc><xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://uRemotech.de/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://uRemotech.de/en/"
     /></url></urlset>
