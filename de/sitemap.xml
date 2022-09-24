@@ -4,7 +4,7 @@
   
   
   <url>
-    <loc>https://uRemotech.de/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><xhtml:link
+    <loc>https://uRemotech.de/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://uRemotech.de/en/privacy/"
@@ -14,7 +14,7 @@
       href="https://uRemotech.de/privacy/"
     /></url>
   <url>
-    <loc>https://uRemotech.de/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><xhtml:link
+    <loc>https://uRemotech.de/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://uRemotech.de/en/terms/"
@@ -24,37 +24,7 @@
       href="https://uRemotech.de/terms/"
     /></url>
   <url>
-    <loc>https://uRemotech.de/admin/</loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://uRemotech.de/en/admin/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://uRemotech.de/admin/"
-    /></url>
-  <url>
-    <loc></loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href=""
-    /></url>
-  <url>
-    <loc></loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href=""
-    /></url>
-  <url>
-    <loc>https://uRemotech.de/categories/</loc><xhtml:link
+    <loc>https://uRemotech.de/categories/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://uRemotech.de/en/categories/"
@@ -64,7 +34,7 @@
       href="https://uRemotech.de/categories/"
     /></url>
   <url>
-    <loc>https://uRemotech.de/publication_types/</loc><xhtml:link
+    <loc>https://uRemotech.de/publication_types/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://uRemotech.de/en/publication_types/"
@@ -74,7 +44,7 @@
       href="https://uRemotech.de/publication_types/"
     /></url>
   <url>
-    <loc>https://uRemotech.de/tags/</loc><xhtml:link
+    <loc>https://uRemotech.de/tags/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://uRemotech.de/en/tags/"
@@ -84,7 +54,7 @@
       href="https://uRemotech.de/tags/"
     /></url>
   <url>
-    <loc>https://uRemotech.de/</loc><xhtml:link
+    <loc>https://uRemotech.de/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://uRemotech.de/en/"
