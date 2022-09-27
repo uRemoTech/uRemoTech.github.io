@@ -7,7 +7,7 @@
     <description>uRemoTech</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language>
     <image>
-      <url>https://uRemotech.de/media/logo_hu6fe7e959c1182c274fa31d5133a681c5_179489_300x300_fit_lanczos_3.png</url>
+      <url>https://uRemotech.de/media/logo_huba7d4ef892aa20b47b25c36e8f010ea4_57007_300x300_fit_lanczos_3.png</url>
       <title>uRemoTech</title>
       <link>https://uRemotech.de/</link>
     </image>
@@ -101,14 +101,6 @@ Gerichtsstelle: Kiel&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Umsatzsteuer-ID&lt;/strong&gt; &lt;br&gt;
 DE352558049&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://uRemotech.de/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uRemotech.de/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>

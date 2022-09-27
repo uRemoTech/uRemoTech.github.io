@@ -24,6 +24,16 @@
       href="https://uRemotech.de/en/privacy/"
     /></url>
   <url>
+    <loc>https://uRemotech.de/en/authors/</loc><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://uRemotech.de/authors/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://uRemotech.de/en/authors/"
+    /></url>
+  <url>
     <loc>https://uRemotech.de/en/categories/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="de"
