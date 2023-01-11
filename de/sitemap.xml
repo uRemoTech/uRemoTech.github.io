@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://uRemotech.de/jobs/devops-berater/</loc>
+    <lastmod>2023-01-11T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://uRemotech.de/jobs/</loc>
+    <lastmod>2023-01-11T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/jobs/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/</loc>
+    <lastmod>2023-01-11T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,19 +112,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://uRemotech.de/tags/"
-                />
-  </url><url>
-    <loc>https://uRemotech.de/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uRemotech.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://uRemotech.de/"
                 />
   </url>
 </urlset>

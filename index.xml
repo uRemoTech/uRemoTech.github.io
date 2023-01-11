@@ -5,12 +5,55 @@
     <link>https://uRemotech.de/</link>
       <atom:link href="https://uRemotech.de/index.xml" rel="self" type="application/rss+xml" />
     <description>uRemoTech</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png</url>
       <title>uRemoTech</title>
       <link>https://uRemotech.de/</link>
     </image>
+    
+    <item>
+      <title>DEIN NEUER JOB ALS EXCELENTER DEVOPS BERATER</title>
+      <link>https://uRemotech.de/jobs/devops-berater/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>https://uRemotech.de/jobs/devops-berater/</guid>
+      <description>&lt;p&gt;Für unser wachsendes Unternehmen suchen wir DevOps Berater mit Feuer unter dem Hintern. Wenn du genauso für das Thema DevOps brennst wie wir und dich weiterentwickeln willst, dann trete unserem Team bei.&lt;/p&gt;
+&lt;p&gt;uRemoTech ist eine 100% remote IT-Beratungsfirma mit Sitz bei Kiel in Schleswig-Holstein. Wir brennen dafür, Kunden in ganz Deutschland in den Bereichen DevOps, Cloud und Entwicklung voranzubringen. In den vergangenen Jahren haben wir mit bekannten Firmen wie Bertelsmann, Otto oder Claranet zusammengearbeitet.&lt;/p&gt;
+&lt;p&gt;Ab sofort suchen wir einen erfahrenen DevOps Berater (m/w/d) in Vollzeit, für eine Remote-Position in Schleswig-Holstein, bzw. Hamburg. &lt;br&gt;
+Als Teil unseres Teams wirst du dazu beitragen, unseren Kunden bei der Einführung von DevOps-Praktiken und -Tools zu unterstützen und die Effektivität und Qualität ihrer Entwicklungs- und Betriebsprozesse zu verbessern.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Da hast du Spaß dran:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aufbau von Build- und Release-Prozessen mit CI/CD.&lt;/li&gt;
+&lt;li&gt;Umgang mit Docker und Kubernetes, idealerweise Cloud.&lt;/li&gt;
+&lt;li&gt;Zusammenarbeit mit anderen Beratern und Entwicklern, um die besten Lösungen für unsere Kunden zu finden.&lt;/li&gt;
+&lt;li&gt;Dich in neue Themen einzuarbeiten, um dein Wissen stetig zu erweitern.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Das bringst du idealerweise mit:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mehrjährige Berufserfahrung als DevOps oder in einer ähnlichen Rolle.&lt;/li&gt;
+&lt;li&gt;Gute Kenntnisse von DevOps-Tools und -Praktiken wie z.B. Continuous Integration (CI), Continuous Delivery (CD), Infrastructure as Code, GitOps, Monitoring, etc.&lt;/li&gt;
+&lt;li&gt;Erfahrung mit Docker und Kubernetes, idealerweise Cloud.&lt;/li&gt;
+&lt;li&gt;Gute Kommunikationsfähigkeiten und Kundenorientierung.&lt;/li&gt;
+&lt;li&gt;Bereitschaft zur Arbeit im Homeoffice oder Am Ort deiner Wahl.&lt;/li&gt;
+&lt;li&gt;Sehr gute Deutsch und gute Englisch Kenntnisse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Das bieten wir dir:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Die Möglichkeit, dich und deine Fähigkeiten weiterzuentwickeln und an interessanten Projekten zu arbeiten.&lt;/li&gt;
+&lt;li&gt;Top Hardware mit dem von dir bevorzugten Betriebssystem (z.B. MacBook oder Dell XPS).&lt;/li&gt;
+&lt;li&gt;Weiterbildung in Form von Schulungen und Konferenzen.&lt;/li&gt;
+&lt;li&gt;Die Flexibilität und Unabhängigkeit einer Remote-Position.&lt;/li&gt;
+&lt;li&gt;Ein attraktives Gehalt und gute Sozialleistungen.&lt;/li&gt;
+&lt;li&gt;30 Tage Urlaub.&lt;/li&gt;
+&lt;li&gt;Optional: Firmwagen, bzw. JobRad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Interessiert? Dann bewirb dich jetzt mit deinem Lebenslauf. &lt;br&gt;
+Wir freuen uns auf deine Bewerbung!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ansprechpartner für Bewerbungen:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Lennart Röder &lt;br&gt;
+&lt;strong&gt;E-Mail:&lt;/strong&gt; Lennart.Roeder[at]uRemoTech.de&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Datenschutz</title>
