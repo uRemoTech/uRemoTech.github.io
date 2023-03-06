@@ -224,7 +224,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.4bffe135fa1baf2bb32ce0cfb0f3f66e.css" />
+  <link rel="stylesheet" href="/css/wowchemy.aeeb8ce4415113241e4e0caf971ab2af.css" />
 
   
   
@@ -244,6 +244,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CWC5HLYDK5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-CWC5HLYDK5', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -317,9 +356,9 @@
 
 <meta property="twitter:card" content="summary" />
 <meta property="twitter:image" content="https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png" />
-<meta property="og:site_name" content="uRemoTech — IT-Beratung" />
+<meta property="og:site_name" content="uRemoTech" />
 <meta property="og:url" content="https://uRemotech.de/en/" />
-<meta property="og:title" content="uRemoTech — IT-Beratung" />
+<meta property="og:title" content="uRemoTech" />
 <meta property="og:description" content="Erfahrene IT-Fachkräfte meistern Ihre Projekte" /><meta property="og:image" content="https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-gb" />
 
   
@@ -373,7 +412,7 @@
 
   
   
-    <link rel="alternate" href="/en/index.xml" type="application/rss+xml" title="uRemoTech — IT-Beratung" />
+    <link rel="alternate" href="/en/index.xml" type="application/rss+xml" title="uRemoTech" />
   
 
   
@@ -410,7 +449,7 @@
 
 
   
-  <title>uRemoTech — IT-Beratung</title>
+  <title>uRemoTech</title>
 
   
   
@@ -507,7 +546,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech — IT-Beratung"
+        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech"
             
             ></a>
       </div>
@@ -522,7 +561,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech — IT-Beratung"
+        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech"
           
           ></a>
       </div>
@@ -604,7 +643,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/en/#focus" data-target="#focus"><span>Focus</span></a>
+            <a class="nav-link " href="/en/#mission" data-target="#mission"><span>Mission</span></a>
           </li>
 
           
@@ -641,7 +680,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/en/#references" data-target="#references"><span>References</span></a>
+            <a class="nav-link " href="/en/#focus" data-target="#focus"><span>Focus</span></a>
           </li>
 
           
@@ -905,7 +944,7 @@
    
 
   <div class="carousel-item active " style=" height: 800px;background-image: url(&#39;https://uRemotech.de/media/slider/buero.jpg&#39;); background-repeat: no-repeat; background-position: top; background-size: cover; ">
-    <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="-webkit-backdrop-filter: brightness(0.9); backdrop-filter: brightness(0.9);">
+    <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="-webkit-backdrop-filter: brightness(1); backdrop-filter: brightness(1);">
       
       <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: left;">
           <h1 class="hero-title">
@@ -914,7 +953,7 @@
 
           
           <p class="hero-lead" style="">
-            Are you looking for DevOps or Software Developers with experience?<br />You came to the right place!
+            Are you looking for problem solvers with expert knowledge?<br />You came to the right place!
           </p>
           
 
@@ -944,7 +983,7 @@
    
 
   <div class="carousel-item " style=" height: 800px;background-image: url(&#39;https://uRemotech.de/media/slider/laptop.jpg&#39;); background-repeat: no-repeat; background-position: center; background-size: cover; ">
-    <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="-webkit-backdrop-filter: brightness(0.8); backdrop-filter: brightness(0.8);">
+    <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="-webkit-backdrop-filter: brightness(0.9); backdrop-filter: brightness(0.9);">
       
       <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: left;">
           <h1 class="hero-title">
@@ -1080,78 +1119,40 @@
   
 
   
-  <section id="focus" class="home-section wg-featurette  "  >
+  <section id="mission" class="home-section wg-blank  "  >
    <div class="home-section-bg " >
      
    </div>
     <div class="container">
 
     
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Our Mission</h1>
+            
+          </div>
+        
+      
+    
 
       
 
 
-<div class="row featurette">
-  
-  <div class="col-md-12 section-heading">
-    <h1>Focus</h1>
-    
-  </div>
-  
 
-  
-  <div class="col-md-12">
+  <div class="col-12">
     <p>We at uRemoTech are dedicated to your success!</p>
 <p>This is why we focus on what we do best: <br>
 <strong>Consulting and implementation in the field of <span class="red-text">Cloud</span>, <span class="red-text">DevOps</span> and <span class="red-text">Development</span>.</strong></p>
 <p>This approach makes it possible to offer you the best solutions.</p>
 
   </div>
-  
-
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-4">
-    
-    <div class="featurette-icon"><i class="fas fa-puzzle-piece"></i></div>
-    
-    <div class="section-subheading">Consulting</div>
-    <p>Solutions that fit your problem.</p>
-  </div>
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-4">
-    
-    <div class="featurette-icon"><i class="fas fa-user"></i></div>
-    
-    <div class="section-subheading">Implementation</div>
-    <p>Qualified consultants for your project.</p>
-  </div>
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-4">
-    
-    <div class="featurette-icon"><i class="fas fa-code"></i></div>
-    
-    <div class="section-subheading">Specialization</div>
-    <p>Cloud, DevOps und Development.</p>
-  </div>
-  
-</div>
 
 
+
+    
+      </div>
     
 
     </div>
@@ -1209,189 +1210,70 @@
   
 
   
-  <section id="references" class="home-section wg-blank  "  >
+  <section id="focus" class="home-section wg-featurette  "  >
    <div class="home-section-bg " >
      
    </div>
     <div class="container">
 
     
-      <div class="row  justify-content-center">
+
       
-        
-          <div class="section-heading col-12 mb-3 text-center">
-            <h1 class="mb-0">References</h1>
-            
-          </div>
-        
-      
+
+
+<div class="row featurette">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Focus</h1>
     
-
-      
-
-
-
-  <div class="col-12">
-    <p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Bertelsmann Logo" srcset="
-               /media/references/Bertelsmann_Logo_hub0c9a0963f3eecf05cadbfaa71f6ccf3_32001_71eca2d35db6c2e4ff757a6588a154fd.webp 400w,
-               /media/references/Bertelsmann_Logo_hub0c9a0963f3eecf05cadbfaa71f6ccf3_32001_2cf3d63386eceeb8242fba837fef7baf.webp 760w,
-               /media/references/Bertelsmann_Logo_hub0c9a0963f3eecf05cadbfaa71f6ccf3_32001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-               src="/media/references/Bertelsmann_Logo_hub0c9a0963f3eecf05cadbfaa71f6ccf3_32001_71eca2d35db6c2e4ff757a6588a154fd.webp"
-               width="760"
-               height="138"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Bamf Logo"
-           src="/media/references/Bamf_Logo.svg"
-           loading="lazy" data-zoomable /></div>
-  </div></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Claranet Logo" srcset="
-               /media/references/Claranet_Logo_hub3b3eaab1172a9f8894f836b285ccf84_61207_f09f6c0dcd5598aea35f4fd4fcbedfe5.webp 400w,
-               /media/references/Claranet_Logo_hub3b3eaab1172a9f8894f836b285ccf84_61207_1c046fed5f4f3015366797d59bee8e54.webp 760w,
-               /media/references/Claranet_Logo_hub3b3eaab1172a9f8894f836b285ccf84_61207_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-               src="/media/references/Claranet_Logo_hub3b3eaab1172a9f8894f836b285ccf84_61207_f09f6c0dcd5598aea35f4fd4fcbedfe5.webp"
-               width="760"
-               height="153"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Fintus Logo"
-           src="/media/references/Fintus_Logo.svg"
-           loading="lazy" data-zoomable /></div>
-  </div></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Warburg Logo"
-           src="/media/references/Warburg_Logo.svg"
-           loading="lazy" data-zoomable /></div>
-  </div></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Otto Logo" srcset="
-               /media/references/Otto_Logo_hude80dee01947147cdcec2dd0097266eb_81993_992d9770e539f307e87739b22fefc439.webp 400w,
-               /media/references/Otto_Logo_hude80dee01947147cdcec2dd0097266eb_81993_9838d93f1c04f3ff7e4816a3418cd5a6.webp 760w,
-               /media/references/Otto_Logo_hude80dee01947147cdcec2dd0097266eb_81993_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-               src="/media/references/Otto_Logo_hude80dee01947147cdcec2dd0097266eb_81993_992d9770e539f307e87739b22fefc439.webp"
-               width="760"
-               height="257"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
-</p>
-
   </div>
+  
 
+  
 
-
+  
+  
+  
+  
     
-      </div>
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-puzzle-piece"></i></div>
+    
+    <div class="section-subheading">Consulting</div>
+    <p>Solutions that fit your problem.</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-user"></i></div>
+    
+    <div class="section-subheading">Implementation</div>
+    <p>Qualified consultants for your project.</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-code"></i></div>
+    
+    <div class="section-subheading">Specialization</div>
+    <p>Cloud, DevOps und Development.</p>
+  </div>
+  
+</div>
+
+
     
 
     </div>
@@ -1625,13 +1507,18 @@
     
 
     
+    <li>
+      <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+      <span id="person-telephone"><a href="tel:&#43;49%20173%202013%20886">&#43;49 173 2013 886</a></span>
+    </li>
+    
 
     
     
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address">24582 Bordesholm</span>
+        <span id="person-address">Kieler Str. 20a,<br>24582 Bordesholm</span>
       </li>
     
 
@@ -1651,7 +1538,7 @@
     <input id="map-provider" value="google">
     <input id="map-lat" value="54.17396375116058">
     <input id="map-lng" value="10.026628354594344">
-    <input id="map-dir" value="24582 Bordesholm">
+    <input id="map-dir" value="Kieler Str. 20a,24582 Bordesholm">
     <input id="map-zoom" value="9">
     <input id="map-api-key" value="AIzaSyD0eS3XJMAanlOdEkP3lmJjamlIIwiQ6oo">
   </div>

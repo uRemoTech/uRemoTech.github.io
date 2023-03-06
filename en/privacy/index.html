@@ -212,7 +212,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.4bffe135fa1baf2bb32ce0cfb0f3f66e.css" />
+  <link rel="stylesheet" href="/css/wowchemy.aeeb8ce4415113241e4e0caf971ab2af.css" />
 
   
   
@@ -232,6 +232,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CWC5HLYDK5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-CWC5HLYDK5', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -307,9 +346,9 @@ Your data subject rights You can exercise the following rights at any time using
 
 <meta property="twitter:card" content="summary" />
 <meta property="twitter:image" content="https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png" />
-<meta property="og:site_name" content="uRemoTech — IT-Beratung" />
+<meta property="og:site_name" content="uRemoTech" />
 <meta property="og:url" content="https://uRemotech.de/en/privacy/" />
-<meta property="og:title" content="Privacy Policy | uRemoTech — IT-Beratung" />
+<meta property="og:title" content="Privacy Policy | uRemoTech" />
 <meta property="og:description" content="The person responsible within the meaning of the data protection laws, in particular the EU General Data Protection Regulation (GDPR), is:
 uRemoTech GmbH &amp; Co. KG
 Your data subject rights You can exercise the following rights at any time using the contact details provided for our data protection officer:" /><meta property="og:image" content="https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-gb" />
@@ -376,7 +415,7 @@ Your data subject rights You can exercise the following rights at any time using
 
 
   
-  <title>Privacy Policy | uRemoTech — IT-Beratung</title>
+  <title>Privacy Policy | uRemoTech</title>
 
   
   
@@ -473,7 +512,7 @@ Your data subject rights You can exercise the following rights at any time using
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech — IT-Beratung"
+        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech"
             
             ></a>
       </div>
@@ -488,7 +527,7 @@ Your data subject rights You can exercise the following rights at any time using
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech — IT-Beratung"
+        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech"
           
           ></a>
       </div>
@@ -570,7 +609,7 @@ Your data subject rights You can exercise the following rights at any time using
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/en/#focus"><span>Focus</span></a>
+            <a class="nav-link " href="/en/#mission"><span>Mission</span></a>
           </li>
 
           
@@ -607,7 +646,7 @@ Your data subject rights You can exercise the following rights at any time using
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/en/#references"><span>References</span></a>
+            <a class="nav-link " href="/en/#focus"><span>Focus</span></a>
           </li>
 
           
@@ -833,6 +872,15 @@ If you have given us your consent, you can revoke this at any time with effect f
 <p>If there is a contractual relationship, we are subject to the statutory retention periods according to the German Commercial Code and delete your data after these periods have expired.</p>
 <h3 id="provision-prescribed-or-required">Provision prescribed or required</h3>
 <p>The provision of your personal data is voluntary. However, we can only process your request if you provide us with your name, email address and the reason for the request.</p>
+<h2 id="use-of-google-analytics">Use of Google Analytics</h2>
+<p>If you have given your consent, this website uses Google Analytics, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA (hereinafter: &ldquo;Google&rdquo;). Google Analytics uses &ldquo;cookies&rdquo;, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there. However, due to the activation of IP anonymization on these web pages, your IP address will be truncated beforehand by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. The IP address transmitted by your browser as part of Google Analytics will not be merged with other data from Google.</p>
+<p>For more information on terms of use and data protection, please visit <a href="https://www.google.com/analytics/terms/de.html" target="_blank" rel="noopener">https://www.google.com/analytics/terms/de.html</a> and <a href="https://policies.google.com/?hl=de" target="_blank" rel="noopener">https://policies.google.com/?hl=de</a>.</p>
+<p>On behalf of the operator of this website, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage to the website operator.</p>
+<p>The data sent by us and linked to cookies, user IDs (e.g. user ID) or advertising IDs are automatically deleted after 14 months. The deletion of data whose retention period has been reached takes place automatically once a month.</p>
+<h3 id="revocation-of-consent">Revocation of consent:</h3>
+<p>You can stop tracking by Google Analytics on our website by clicking this link. This will install an opt-out cookie on your device. This will prevent the collection by Google Analytics for this website and for this browser in the future, as long as the cookie remains installed in your browser.</p>
+<p>You can also prevent the storage of cookies by selecting the appropriate settings on your browser software; however, please note that in this case you may not be able to use the full functionality of this website.</p>
+<p>You can also prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) to Google and the processing of this data by Google by downloading and installing the browser plugin available at the following link: Browser Add On to disable Google Analytics.</p>
 <h2 id="use-of-script-libraries-google-webfonts">Use of script libraries (Google Webfonts)</h2>
 <p>In order to display our content correctly and graphically appealing across browsers, we use &ldquo;Google Web Fonts&rdquo; from Google LLC (1600 Amphitheater Parkway, Mountain View, CA 94043, USA; hereinafter &ldquo;Google&rdquo;) to display fonts on this website.</p>
 <p>You can find more information about Google Web Fonts at <a href="https://developers.google.com/fonts/faq" target="_blank" rel="noopener">https://developers.google.com/fonts/faq</a> and in Google&rsquo;s privacy policy: <a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener">https://www.google.com/policies/privacy/</a>.</p>

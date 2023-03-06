@@ -212,7 +212,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.4bffe135fa1baf2bb32ce0cfb0f3f66e.css" />
+  <link rel="stylesheet" href="/css/wowchemy.aeeb8ce4415113241e4e0caf971ab2af.css" />
 
   
   
@@ -232,6 +232,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CWC5HLYDK5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-CWC5HLYDK5', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -305,9 +344,9 @@
 
 <meta property="twitter:card" content="summary" />
 <meta property="twitter:image" content="https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png" />
-<meta property="og:site_name" content="uRemoTech — IT-Beratung" />
+<meta property="og:site_name" content="uRemoTech" />
 <meta property="og:url" content="https://uRemotech.de/en/tags/" />
-<meta property="og:title" content="Tags | uRemoTech — IT-Beratung" />
+<meta property="og:title" content="Tags | uRemoTech" />
 <meta property="og:description" content="Erfahrene IT-Fachkräfte meistern Ihre Projekte" /><meta property="og:image" content="https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-gb" />
 
   
@@ -327,7 +366,7 @@
 
   
   
-    <link rel="alternate" href="/en/tags/index.xml" type="application/rss+xml" title="uRemoTech — IT-Beratung" />
+    <link rel="alternate" href="/en/tags/index.xml" type="application/rss+xml" title="uRemoTech" />
   
 
   
@@ -364,7 +403,7 @@
 
 
   
-  <title>Tags | uRemoTech — IT-Beratung</title>
+  <title>Tags | uRemoTech</title>
 
   
   
@@ -461,7 +500,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech — IT-Beratung"
+        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech"
             
             ></a>
       </div>
@@ -476,7 +515,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech — IT-Beratung"
+        <a class="navbar-brand" href="/en/"><img src="/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_0x70_resize_lanczos_3.png" alt="uRemoTech"
           
           ></a>
       </div>
@@ -558,7 +597,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/en/#focus"><span>Focus</span></a>
+            <a class="nav-link " href="/en/#mission"><span>Mission</span></a>
           </li>
 
           
@@ -595,7 +634,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/en/#references"><span>References</span></a>
+            <a class="nav-link " href="/en/#focus"><span>Focus</span></a>
           </li>
 
           
