@@ -2,21 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uRemotech.de/jobs/berater-backend-developer/</loc>
+    <loc>https://uRemotech.de/jobs/consultant-backend-developer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/jobs/consultant-backend-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/jobs/consultant-backend-developer/"
+                />
   </url><url>
-    <loc>https://uRemotech.de/jobs/berater-cloud-engineer/</loc>
+    <loc>https://uRemotech.de/jobs/consultant-cloud-engineer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/jobs/consultant-cloud-engineer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/jobs/consultant-cloud-engineer/"
+                />
   </url><url>
-    <loc>https://uRemotech.de/jobs/berater-devops-engineer/</loc>
+    <loc>https://uRemotech.de/jobs/consultant-devops-engineer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/jobs/consultant-devops-engineer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/jobs/consultant-devops-engineer/"
+                />
   </url><url>
-    <loc>https://uRemotech.de/jobs/berater-fullstack-developer/</loc>
+    <loc>https://uRemotech.de/jobs/consultant-fullstack-developer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/jobs/consultant-fullstack-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/jobs/consultant-fullstack-developer/"
+                />
   </url><url>
     <loc>https://uRemotech.de/jobs/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
@@ -32,9 +72,19 @@
                 href="https://uRemotech.de/jobs/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/termin/</loc>
+    <loc>https://uRemotech.de/appointment/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/appointment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/appointment/"
+                />
   </url><url>
     <loc>https://uRemotech.de/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
