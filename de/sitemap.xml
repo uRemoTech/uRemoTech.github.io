@@ -154,19 +154,6 @@
                 href="https://uRemotech.de/categories/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uRemotech.de/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://uRemotech.de/publication_types/"
-                />
-  </url><url>
     <loc>https://uRemotech.de/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
