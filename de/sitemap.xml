@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://uRemotech.de/jobs/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://uRemotech.de/history/</loc>
+    <lastmod>2023-10-25T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/history/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/values/</loc>
+    <lastmod>2023-10-25T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/values/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/values/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/vision/</loc>
+    <lastmod>2023-10-25T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/vision/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/jobs/consultant-backend-developer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
