@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Du suchst eine neue Herausforderung? | uRemoTech — IT-Beratung</title>
+    <link>https://uRemotech.de/career/</link>
+      <atom:link href="https://uRemotech.de/career/index.xml" rel="self" type="application/rss+xml" />
+    <description>Du suchst eine neue Herausforderung?</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language>
+    <image>
+      <url>https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png</url>
+      <title>Du suchst eine neue Herausforderung?</title>
+      <link>https://uRemotech.de/career/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://uRemotech.de/jobs/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://uRemotech.de/jobs/consultant-backend-developer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -128,6 +131,19 @@
                 href="https://uRemotech.de/terms/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/about/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/about/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -154,6 +170,19 @@
                 href="https://uRemotech.de/categories/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/career/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/career/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -165,6 +194,45 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://uRemotech.de/tags/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/about/history/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/about/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/about/history/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/about/values/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/about/values/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/about/values/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/about/vision/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://uRemotech.de/en/about/vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/about/vision/"
                 />
   </url>
 </urlset>
