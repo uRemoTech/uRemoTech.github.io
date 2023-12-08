@@ -19,12 +19,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/appointment/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/appointment/"
                 />
   </url><url>
@@ -33,12 +33,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/jobs/consultant-backend-developer/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/jobs/consultant-backend-developer/"
                 />
   </url><url>
@@ -47,12 +47,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/jobs/consultant-cloud-engineer/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/jobs/consultant-cloud-engineer/"
                 />
   </url><url>
@@ -61,12 +61,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/jobs/consultant-devops-engineer/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/jobs/consultant-devops-engineer/"
                 />
   </url><url>
@@ -75,12 +75,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/jobs/consultant-fullstack-developer/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/jobs/consultant-fullstack-developer/"
                 />
   </url><url>
@@ -89,12 +89,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/jobs/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/jobs/"
                 />
   </url><url>
@@ -103,12 +103,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/"
                 />
   </url><url>
@@ -117,12 +117,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/terms/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/terms/"
                 />
   </url><url>
@@ -131,12 +131,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/privacy/"
                 />
   </url><url>
@@ -144,12 +144,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/about/"
                 />
   </url><url>
@@ -157,12 +157,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/authors/"
                 />
   </url><url>
@@ -170,12 +170,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/categories/"
                 />
   </url><url>
@@ -183,25 +183,38 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/career/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/career/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/about/vision/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://uRemotech.de/about/vision/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://uRemotech.de/en/about/vision/"
                 />
   </url><url>
     <loc>https://uRemotech.de/en/about/history/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/about/history/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/about/history/"
                 />
   </url><url>
@@ -209,12 +222,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/about/values/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/about/values/"
                 />
   </url><url>
@@ -222,26 +235,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
+                hreflang="de"
                 href="https://uRemotech.de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://uRemotech.de/en/tags/"
-                />
-  </url><url>
-    <loc>https://uRemotech.de/en/about/vision/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/about/vision/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/about/vision/"
                 />
   </url>
 </urlset>
