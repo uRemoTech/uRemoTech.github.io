@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uRemotech.de/jobs/consultant-backend-developer/</loc>
-    <lastmod>2023-02-26T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/jobs/consultant-backend-developer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/jobs/consultant-backend-developer/"
-                />
-  </url><url>
     <loc>https://uRemotech.de/jobs/consultant-cloud-engineer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -42,20 +28,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://uRemotech.de/jobs/consultant-devops-engineer/"
-                />
-  </url><url>
-    <loc>https://uRemotech.de/jobs/consultant-fullstack-developer/</loc>
-    <lastmod>2023-02-26T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/jobs/consultant-fullstack-developer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/jobs/consultant-fullstack-developer/"
                 />
   </url><url>
     <loc>https://uRemotech.de/jobs/</loc>
