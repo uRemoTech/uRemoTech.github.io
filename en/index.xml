@@ -5,7 +5,7 @@
     <link>https://uRemotech.de/en/</link>
       <atom:link href="https://uRemotech.de/en/index.xml" rel="self" type="application/rss+xml" />
     <description>uRemoTech — IT-Beratung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png</url>
       <title>uRemoTech — IT-Beratung</title>
@@ -19,6 +19,92 @@
       <guid>https://uRemotech.de/en/appointment/</guid>
       <description>&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/d/3s7-76d-9f2/kennlerngesprach&#34; style=&#34;min-width:320px; height:1260px;&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT Consultant — Cloud Engineer (m/f/d)</title>
+      <link>https://uRemotech.de/en/jobs/consultant-cloud-engineer/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0100</pubDate>
+      <guid>https://uRemotech.de/en/jobs/consultant-cloud-engineer/</guid>
+      <description>&lt;p&gt;For our growing company we are looking for an IT consultant with fire under the butt. If you are as passionate about cloud infrastructure as we are and want to continuously develop yourself, then join our team.&lt;/p&gt;
+&lt;p&gt;uRemoTech is a 100% remote IT consulting company based near Kiel in Schleswig-Holstein. We are burning to help clients across Germany move forward in DevOps, Cloud and Software Development. In the past years we have worked with well-known companies like Bertelsmann, Daimler or Otto.&lt;/p&gt;
+&lt;p&gt;Starting immediately, we are looking for an experienced IT consultant with a focus on &amp;ldquo;Cloud Engineering&amp;rdquo; in full-time, for a remote position. &lt;br&gt;
+As part of our team, you will help support our clients on a variety of cloud-related topics and improve the effectiveness and quality of their development and operations processes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You have fun doing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dealing with the 3 major public clouds.&lt;/li&gt;
+&lt;li&gt;Building and monitoring cloud landscapes.&lt;/li&gt;
+&lt;li&gt;Monitoring existing infrastructure.&lt;/li&gt;
+&lt;li&gt;You are no stranger to IaC (Infrastructure as Code).&lt;/li&gt;
+&lt;li&gt;Planning and implementing cloud migrations.&lt;/li&gt;
+&lt;li&gt;Dealing with Docker, Kubernetes and cloud.&lt;/li&gt;
+&lt;li&gt;Collaborating with other consultants and developers to find the best solutions for our customers.&lt;/li&gt;
+&lt;li&gt;Familiarizing yourself with new topics to constantly expand your knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ideally, you bring with you:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Several years of work experience as a Cloud Engineer or in a similar role.&lt;/li&gt;
+&lt;li&gt;Good knowledge of cloud tools and practices such as Continuous Integration (CI), Continuous Delivery (CD), Infrastructure as Code, GitOps, Monitoring, etc.&lt;/li&gt;
+&lt;li&gt;Experience with Docker, Kubernetes, and at least one of the 3 major cloud providers.&lt;/li&gt;
+&lt;li&gt;Good communication skills and customer focus.&lt;/li&gt;
+&lt;li&gt;Willingness to work in home office or At the location of your choice.&lt;/li&gt;
+&lt;li&gt;Very good German and good English skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we offer you:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The opportunity to develop yourself and your skills and work on interesting projects.&lt;/li&gt;
+&lt;li&gt;Continuing education in the form of training and conferences.&lt;/li&gt;
+&lt;li&gt;A MacBook to work with, because we know how important a good work device is.&lt;/li&gt;
+&lt;li&gt;The flexibility and independence of a remote position.&lt;/li&gt;
+&lt;li&gt;An attractive salary.&lt;/li&gt;
+&lt;li&gt;30 days of vacation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt; &lt;br&gt;
+Then book your online interview &lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/appointment&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt; now!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT Consultant — DevOps Engineer (m/f/d)</title>
+      <link>https://uRemotech.de/en/jobs/consultant-devops-engineer/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0100</pubDate>
+      <guid>https://uRemotech.de/en/jobs/consultant-devops-engineer/</guid>
+      <description>&lt;p&gt;For our growing company we are looking for an IT consultant with fire under the butt. If you are as passionate about DevOps as we are and want to continuously develop yourself, then join our team.&lt;/p&gt;
+&lt;p&gt;uRemoTech is a 100% remote IT consulting company based near Kiel in Schleswig-Holstein. We are burning to help clients across Germany move forward in DevOps, Cloud and Software Development. In the past years we have worked with well-known companies like Bertelsmann, Daimler or Otto.&lt;/p&gt;
+&lt;p&gt;Starting immediately, we are looking for an experienced IT consultant with a focus on DevOps in full-time, for a remote position. &lt;br&gt;
+As part of our team, you will contribute to helping our customers adopt DevOps practices and tools and improve the effectiveness and quality of their development and operations processes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You have fun doing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing and building build and release processes with CI/CD.&lt;/li&gt;
+&lt;li&gt;Transition from DevOps to GitOps.&lt;/li&gt;
+&lt;li&gt;Planning and implementing cloud migrations.&lt;/li&gt;
+&lt;li&gt;Monitoring and automation of customer environments.&lt;/li&gt;
+&lt;li&gt;Working with Docker and Kubernetes, ideally cloud.&lt;/li&gt;
+&lt;li&gt;Collaborating with other consultants and developers to find the best solutions for our customers.&lt;/li&gt;
+&lt;li&gt;Familiarizing yourself with new topics to constantly expand your knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ideally, you bring with you:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Several years of professional experience as DevOps or in a similar role.&lt;/li&gt;
+&lt;li&gt;Good knowledge of DevOps tools and practices such as Continuous Integration (CI), Continuous Delivery (CD), Infrastructure as Code, GitOps, monitoring, etc.&lt;/li&gt;
+&lt;li&gt;Experience with Docker and Kubernetes, ideally cloud.&lt;/li&gt;
+&lt;li&gt;Good communication skills and customer focus.&lt;/li&gt;
+&lt;li&gt;Willingness to work in home office or At the location of your choice.&lt;/li&gt;
+&lt;li&gt;Very good German and good English skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we offer you:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The opportunity to develop yourself and your skills and work on interesting projects.&lt;/li&gt;
+&lt;li&gt;Continuing education in the form of training and conferences.&lt;/li&gt;
+&lt;li&gt;A MacBook to work with, because we know how important a good work device is.&lt;/li&gt;
+&lt;li&gt;The flexibility and independence of a remote position.&lt;/li&gt;
+&lt;li&gt;An attractive salary.&lt;/li&gt;
+&lt;li&gt;30 days of vacation.&lt;/li&gt;
+&lt;li&gt;Optional: company car, or JobRad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt; &lt;br&gt;
+Then book your online interview &lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/appointment&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt; now!&lt;/p&gt;
 </description>
     </item>
     
@@ -110,9 +196,9 @@ If you have given us your consent, you can revoke this at any time with effect f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://uRemotech.de/en/career/</guid>
       <description>&lt;h2 id=&#34;cloud-devops--infrastructure&#34;&gt;Cloud, DevOps &amp;amp; Infrastructure&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;- Currently no open positions -&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- **[IT-Consultant — Cloud Engineer (m/f/d)](/en/jobs/consultant-cloud-engineer)** \
-**[IT-Consultant — DevOps Engineer (m/f/d)](/en/jobs/consultant-devops-engineer)** --&gt;
+&lt;!-- **- Currently no open positions -** --&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/jobs/consultant-cloud-engineer&#34;&gt;IT-Consultant — Cloud Engineer (m/f/d)&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/jobs/consultant-devops-engineer&#34;&gt;IT-Consultant — DevOps Engineer (m/f/d)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;software-development&#34;&gt;Software Development&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;- Currently no open positions -&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- **[IT-Consultant — Backend Developer (m/f/d)](/en/jobs/consultant-backend-developer)** \

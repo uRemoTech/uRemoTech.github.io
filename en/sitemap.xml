@@ -16,6 +16,62 @@
                 href="https://uRemotech.de/en/appointment/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/en/jobs/consultant-cloud-engineer/</loc>
+    <lastmod>2023-02-26T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/consultant-cloud-engineer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/consultant-cloud-engineer/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/jobs/consultant-devops-engineer/</loc>
+    <lastmod>2023-02-26T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/consultant-devops-engineer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/consultant-devops-engineer/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/jobs/</loc>
+    <lastmod>2023-02-26T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/</loc>
+    <lastmod>2023-02-26T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/en/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -146,19 +202,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://uRemotech.de/en/tags/"
-                />
-  </url><url>
-    <loc>https://uRemotech.de/en/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/"
                 />
   </url>
 </urlset>
