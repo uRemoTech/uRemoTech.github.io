@@ -178,6 +178,19 @@
                 href="https://uRemotech.de/tags/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/about/team/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/about/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/about/team/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/about/history/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
