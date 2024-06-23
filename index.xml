@@ -250,11 +250,19 @@ Unsere Passion für technologische Exzellenz ist unser Erfolgsmotor. Viele klein
       <guid>https://uRemotech.de/about/team/</guid>
       <description>&lt;div class=&#34;team-container&#34;&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Lennart.jpg&#34; alt=&#34;Lennart Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Lennart_circle.jpg&#34; alt=&#34;Lennart Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Lennart&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;Geschäftsführer /&lt;br&gt; IT-Berater (DevOps)&lt;/span&gt;
       &lt;p class=&#34;description&#34;&gt;Lennart hat über 10 Jahre Erfahrung in der IT-Branche und ist spezialisiert auf DevOps-Lösungen. Er leitet das Team und sorgt für reibungslose Projektabläufe.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Azzurra_circle.jpg&#34; alt=&#34;Azzurra Foto&#34;&gt;
+    &lt;div class=&#34;details&#34;&gt;
+      &lt;span class=&#34;name&#34;&gt;Azzurra&lt;/span&gt;&lt;br&gt;
+      &lt;span class=&#34;job-title&#34;&gt;Assistenz der Geschäftsführung / Recruiterin&lt;/span&gt;
+      &lt;p class=&#34;description&#34;&gt;Azzurra unterstützt die Geschäftsführung und leitet das Recruiting. Sie hat ein Auge fürs Detail und findet immer die besten Talente für unser Team.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
@@ -266,15 +274,7 @@ Unsere Passion für technologische Exzellenz ist unser Erfolgsmotor. Viele klein
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Azzurra.jpg&#34; alt=&#34;Azzurra Foto&#34;&gt;
-    &lt;div class=&#34;details&#34;&gt;
-      &lt;span class=&#34;name&#34;&gt;Azzurra&lt;/span&gt;&lt;br&gt;
-      &lt;span class=&#34;job-title&#34;&gt;Assistenz der Geschäftsführung / Recruiterin&lt;/span&gt;
-      &lt;p class=&#34;description&#34;&gt;Azzurra unterstützt die Geschäftsführung und leitet das Recruiting. Sie hat ein Auge fürs Detail und findet immer die besten Talente für unser Team.&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Tobias.jpg&#34; alt=&#34;Tobias Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Tobias_circle.jpg&#34; alt=&#34;Tobias Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Tobias&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;IT-Berater (DevOps)&lt;/span&gt;
@@ -282,7 +282,7 @@ Unsere Passion für technologische Exzellenz ist unser Erfolgsmotor. Viele klein
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Tim.jpg&#34; alt=&#34;Tim Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Tim_circle.jpg&#34; alt=&#34;Tim Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Tim&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;ext. IT-Berater (Backend)&lt;/span&gt;
