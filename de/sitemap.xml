@@ -204,10 +204,10 @@
                 href="https://uRemotech.de/about/values/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/videos/sales-interview/</loc>
+    <loc>https://uRemotech.de/videos/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://uRemotech.de/videos/</loc>
+    <loc>https://uRemotech.de/videos/sales-interview/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
