@@ -203,5 +203,8 @@
                 hreflang="de-de"
                 href="https://uRemotech.de/about/values/"
                 />
+  </url><url>
+    <loc>https://uRemotech.de/videos/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
