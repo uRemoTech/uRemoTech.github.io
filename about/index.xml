@@ -50,7 +50,7 @@ Unsere Passion für technologische Exzellenz ist unser Erfolgsmotor. Viele klein
 Sie findet immer die besten Talente für unser Team und zeichnet sich durch ihre Fähigkeit aus, Teamdynamiken zu verbessern und das Arbeitsumfeld positiv zu gestalten.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;!-- &lt;div class=&#34;break&#34;&gt;&lt;/div&gt; --&gt;
+  &lt;div class=&#34;break&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
     &lt;img src=&#34;https://uRemotech.de/team/Jan_circle.jpg&#34; alt=&#34;Jan Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
@@ -69,17 +69,8 @@ Sie findet immer die besten Talente für unser Team und zeichnet sich durch ihre
       Technologien Wie Kubernetes, GitOps und Helm sind sein täglich Brot.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;!-- &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Kai_circle.jpg&#34; alt=&#34;Tobias Foto&#34;&gt;
-    &lt;div class=&#34;details&#34;&gt;
-      &lt;span class=&#34;name&#34;&gt;Kai&lt;/span&gt;&lt;br&gt;
-      &lt;span class=&#34;job-title&#34;&gt;IT-Berater (DevOps)&lt;/span&gt;
-      &lt;p class=&#34;description&#34;&gt;Kai ist seit 2015 in der IT-Branche tätig und hat sich auf die Automatisierung und Verwaltung von IT-Infrastrukturen spezialisiert.&lt;br /&gt;
-      Seine Kernkompetenzen liegen in Ansible, GitLab und Kubernetes.&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt; --&gt;
   &lt;!-- &lt;div class=&#34;break&#34;&gt;&lt;/div&gt; --&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
+  &lt;!-- &lt;div class=&#34;team-member&#34;&gt;
     &lt;img src=&#34;https://uRemotech.de/team/Tim_circle.jpg&#34; alt=&#34;Tim Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Tim&lt;/span&gt;&lt;br&gt;
@@ -88,7 +79,7 @@ Sie findet immer die besten Talente für unser Team und zeichnet sich durch ihre
       Mit seiner tiefen Expertise in Java, Kotlin und Quarkus unterstützt er uns tatkräftig.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 </description>
     </item>
     
