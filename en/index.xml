@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uRemoTech – IT-Beratung</title>
-    <link>https://uRemotech.de/en/</link>
-      <atom:link href="https://uRemotech.de/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>localhost/en/</link>
+      <atom:link href="localhost/en/index.xml" rel="self" type="application/rss+xml" />
     <description>uRemoTech – IT-Beratung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://uRemotech.de/media/logo_huf6c28dd88df8877b5dcc9b76d0760344_62324_300x300_fit_lanczos_3.png</url>
+      <url>localhost/media/logo_hu15029807518345716135.png</url>
       <title>uRemoTech – IT-Beratung</title>
-      <link>https://uRemotech.de/en/</link>
+      <link>localhost/en/</link>
     </image>
     
     <item>
       <title>Your new job as a Sales B2B Outbound (m/f/d)</title>
-      <link>https://uRemotech.de/en/jobs/sales-b2b-outbound/</link>
+      <link>localhost/en/jobs/sales-b2b-outbound/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
-      <guid>https://uRemotech.de/en/jobs/sales-b2b-outbound/</guid>
+      <guid>localhost/en/jobs/sales-b2b-outbound/</guid>
       <description>&lt;p&gt;For our growing remote IT consulting company we are looking for a &amp;ldquo;B2B Outbound Sales Representative&amp;rdquo; with fire under the butt and personality on the phone.&lt;/p&gt;
 &lt;p&gt;If you are passionate about sales, can identify with technology, cloud and software development and want to develop yourself extremely, then join our team.&lt;/p&gt;
 &lt;p&gt;uRemoTech is a 100% remote IT consulting company from Schleswig-Holstein. We are passionate about advancing our customers throughout Germany in the areas of software development and cloud.&lt;/p&gt;
@@ -56,7 +56,7 @@
 &lt;p&gt;We want to set a new benchmark in the market and give all companies out there the opportunity to utilize their full digital potential in a tailor-made way.&lt;/p&gt;
 &lt;p&gt;We work every day to become the most modern, innovative and fastest-growing IT consultancy, unrivaled in progress and technological excellence.&lt;/p&gt;
 &lt;h3 id=&#34;interested&#34;&gt;Interested?&lt;/h3&gt;
-&lt;!-- Then book your online interview **&lt;a href=&#34;https://uRemotech.de/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
+&lt;!-- Then book your online interview **&lt;a href=&#34;localhost/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
 &lt;p&gt;Then apply directly &lt;strong&gt;&lt;a href=&#34;mailto:hr@uRemoTech.de&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt; with your resume!&lt;/p&gt;
 &lt;p&gt;We look forward to getting to know you better and talking to you about your new job.&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@
     
     <item>
       <title>Senior Spryker Developer (m/w/d)</title>
-      <link>https://uRemotech.de/en/jobs/senior-spryker-developer/</link>
+      <link>localhost/en/jobs/senior-spryker-developer/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
-      <guid>https://uRemotech.de/en/jobs/senior-spryker-developer/</guid>
+      <guid>localhost/en/jobs/senior-spryker-developer/</guid>
       <description>&lt;p&gt;We are currently looking for an experienced Spryker Developer to join the team of one of our key clients in a permanent position.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Main tasks:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -108,7 +108,7 @@
 &lt;li&gt;Kindergarten allowance&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt; \&lt;/p&gt;
-&lt;!-- Then book your online interview **&lt;a href=&#34;https://uRemotech.de/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
+&lt;!-- Then book your online interview **&lt;a href=&#34;localhost/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
 &lt;p&gt;Then apply directly &lt;strong&gt;&lt;a href=&#34;mailto:hr@uRemoTech.de&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt; with your resume!&lt;/p&gt;
 &lt;p&gt;We look forward to getting to know you better and talking to you about your new job.&lt;/p&gt;
 </description>
@@ -116,19 +116,19 @@
     
     <item>
       <title>Appointment</title>
-      <link>https://uRemotech.de/en/appointment/</link>
+      <link>localhost/en/appointment/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0100</pubDate>
-      <guid>https://uRemotech.de/en/appointment/</guid>
-      <description>&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/d/43b-8xh-9kv/gesprach&#34; style=&#34;min-width:320px; height:1260px;&#34;&gt;&lt;/div&gt;
+      <guid>localhost/en/appointment/</guid>
+      <description>&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/d/3s7-76d-9f2/kennlerngesprach&#34; style=&#34;min-width:320px; height:1260px;&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>IT Consultant – Cloud Engineer (m/f/d)</title>
-      <link>https://uRemotech.de/en/jobs/consultant-cloud-engineer/</link>
+      <link>localhost/en/jobs/consultant-cloud-engineer/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0100</pubDate>
-      <guid>https://uRemotech.de/en/jobs/consultant-cloud-engineer/</guid>
+      <guid>localhost/en/jobs/consultant-cloud-engineer/</guid>
       <description>&lt;p&gt;For our growing company we are looking for an IT consultant with fire under the butt. If you are as passionate about cloud infrastructure as we are and want to continuously develop yourself, then join our team.&lt;/p&gt;
 &lt;p&gt;uRemoTech is a 100% remote IT consulting company based near Kiel in Schleswig-Holstein. We are burning to help clients across Germany move forward in DevOps, Cloud and Software Development. In the past years we have worked with well-known companies like Bertelsmann, Daimler or Otto.&lt;/p&gt;
 &lt;p&gt;Starting immediately, we are looking for an experienced IT consultant with a focus on &amp;ldquo;Cloud Engineering&amp;rdquo; in full-time, for a remote position. &lt;br&gt;
@@ -163,7 +163,7 @@ As part of our team, you will help support our clients on a variety of cloud-rel
 &lt;li&gt;30 days of vacation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt; \&lt;/p&gt;
-&lt;!-- Then book your online interview **&lt;a href=&#34;https://uRemotech.de/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
+&lt;!-- Then book your online interview **&lt;a href=&#34;localhost/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
 &lt;p&gt;Then apply directly &lt;strong&gt;&lt;a href=&#34;mailto:hr@uRemoTech.de&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt; with your resume!&lt;/p&gt;
 &lt;p&gt;We look forward to getting to know you better and talking to you about your new job.&lt;/p&gt;
 </description>
@@ -171,9 +171,9 @@ As part of our team, you will help support our clients on a variety of cloud-rel
     
     <item>
       <title>IT Consultant – DevOps Engineer (m/f/d)</title>
-      <link>https://uRemotech.de/en/jobs/consultant-devops-engineer/</link>
+      <link>localhost/en/jobs/consultant-devops-engineer/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0100</pubDate>
-      <guid>https://uRemotech.de/en/jobs/consultant-devops-engineer/</guid>
+      <guid>localhost/en/jobs/consultant-devops-engineer/</guid>
       <description>&lt;p&gt;For our growing company we are looking for an IT consultant with fire under the butt. If you are as passionate about DevOps as we are and want to continuously develop yourself, then join our team.&lt;/p&gt;
 &lt;p&gt;uRemoTech is a 100% remote IT consulting company based near Kiel in Schleswig-Holstein. We are burning to help clients across Germany move forward in DevOps, Cloud and Software Development. In the past years we have worked with well-known companies like Bertelsmann, Daimler or Otto.&lt;/p&gt;
 &lt;p&gt;Starting immediately, we are looking for an experienced IT consultant with a focus on DevOps in full-time, for a remote position. &lt;br&gt;
@@ -208,7 +208,7 @@ As part of our team, you will contribute to helping our customers adopt DevOps p
 &lt;li&gt;Optional: company car, or JobRad.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt; \&lt;/p&gt;
-&lt;!-- Then book your online interview **&lt;a href=&#34;https://uRemotech.de/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
+&lt;!-- Then book your online interview **&lt;a href=&#34;localhost/en/appointment&#34;&gt;HERE&lt;/a&gt;** now! --&gt;
 &lt;p&gt;Then apply directly &lt;strong&gt;&lt;a href=&#34;mailto:hr@uRemoTech.de&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt; with your resume!&lt;/p&gt;
 &lt;p&gt;We look forward to getting to know you better and talking to you about your new job.&lt;/p&gt;
 </description>
@@ -216,9 +216,9 @@ As part of our team, you will contribute to helping our customers adopt DevOps p
     
     <item>
       <title>Imprint</title>
-      <link>https://uRemotech.de/en/terms/</link>
+      <link>localhost/en/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://uRemotech.de/en/terms/</guid>
+      <guid>localhost/en/terms/</guid>
       <description>&lt;h2 id=&#34;data-according-to-section-5-tmg&#34;&gt;Data according to Section 5 TMG&lt;/h2&gt;
 &lt;p&gt;uRemoTech GmbH &amp;amp; Co. KG &lt;br&gt;
 Kieler Str. 20a, &lt;br&gt;
@@ -236,9 +236,9 @@ DE352558049&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://uRemotech.de/en/privacy/</link>
+      <link>localhost/en/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://uRemotech.de/en/privacy/</guid>
+      <guid>localhost/en/privacy/</guid>
       <description>&lt;p&gt;The person responsible within the meaning of the data protection laws, in particular the EU General Data Protection Regulation (GDPR), is:&lt;/p&gt;
 &lt;p&gt;uRemoTech GmbH &amp;amp; Co. KG&lt;/p&gt;
 &lt;h2 id=&#34;your-data-subject-rights&#34;&gt;Your data subject rights&lt;/h2&gt;
@@ -298,22 +298,22 @@ If you have given us your consent, you can revoke this at any time with effect f
     
     <item>
       <title>Are you looking for a new challenge?</title>
-      <link>https://uRemotech.de/en/career/</link>
+      <link>localhost/en/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uRemotech.de/en/career/</guid>
+      <guid>localhost/en/career/</guid>
       <description>&lt;h2 id=&#34;cloud-devops--infrastructure&#34;&gt;Cloud, DevOps &amp;amp; Infrastructure&lt;/h2&gt;
 &lt;!-- **- Currently no open positions -** --&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/jobs/consultant-cloud-engineer&#34;&gt;IT-Consultant – Cloud Engineer (m/f/d)&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
-&lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/jobs/consultant-devops-engineer&#34;&gt;IT-Consultant – DevOps Engineer (m/f/d)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;localhost/en/jobs/consultant-cloud-engineer&#34;&gt;IT-Consultant – Cloud Engineer (m/f/d)&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;&lt;a href=&#34;localhost/en/jobs/consultant-devops-engineer&#34;&gt;IT-Consultant – DevOps Engineer (m/f/d)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;software-development&#34;&gt;Software Development&lt;/h2&gt;
 &lt;!-- **- Currently no open positions -** --&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/jobs/senior-spryker-developer&#34;&gt;Senior Spryker Developer (m/w/d)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;localhost/en/jobs/senior-spryker-developer&#34;&gt;Senior Spryker Developer (m/w/d)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- **[Freelance — Spryker Developer (m/w/d)](/en/jobs/freelance-spryker-developer)** --&gt;
 &lt;!-- **[IT-Consultant — Backend Developer (m/f/d)](/en/jobs/consultant-backend-developer)** \
 **[IT-Consultant — Full-Stack Developer (m/f/d)](/en/jobs/consultant-fullstack-developer)** --&gt;
 &lt;h2 id=&#34;sales--human-resources&#34;&gt;Sales &amp;amp; Human Resources&lt;/h2&gt;
 &lt;!-- **- Currently no open positions -** --&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://uRemotech.de/en/jobs/sales-b2b-outbound&#34;&gt;B2B outbound sales representative (m/f/d)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;localhost/en/jobs/sales-b2b-outbound&#34;&gt;B2B outbound sales representative (m/f/d)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- **[HR – Staff Recruitment (m/f/d)](/en/jobs/hr-recruiter)** --&gt;
 &lt;!-- No suitable position? **[Apply now!](/en/appointment)** --&gt;
 &lt;p&gt;No suitable position? Then apply directly &lt;strong&gt;&lt;a href=&#34;mailto:hr@uRemoTech.de&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt; with your resume!&lt;/p&gt;
@@ -338,13 +338,13 @@ As a pioneering company that works remotely for the most part, we are proud to s
     
     <item>
       <title>Mission &amp; Vision</title>
-      <link>https://uRemotech.de/en/about/vision/</link>
+      <link>localhost/en/about/vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uRemotech.de/en/about/vision/</guid>
+      <guid>localhost/en/about/vision/</guid>
       <description>&lt;h3 id=&#34;mission&#34;&gt;Mission&lt;/h3&gt;
 &lt;p&gt;Win-Win - Your success is our success.&lt;/p&gt;
 &lt;p&gt;Our mission is to lead your project to success with the help of our best experts at the highest level. We are here to stimulate your growth, identify and unleash untapped potential and enable you to react faster to changing market developments.
-Our passion for technological excellence drives our success. Many small, medium and large &lt;a href=&#34;https://uRemotech.de/en/#references&#34;&gt;companies&lt;/a&gt; already value our commitment and expertise.&lt;/p&gt;
+Our passion for technological excellence drives our success. Many small, medium and large &lt;a href=&#34;localhost/en/#references&#34;&gt;companies&lt;/a&gt; already value our commitment and expertise.&lt;/p&gt;
 &lt;p&gt;Our goal is to help you navigate the technological landscape and pave the way for your sustainable success.&lt;/p&gt;
 &lt;h3 id=&#34;vision&#34;&gt;Vision&lt;/h3&gt;
 &lt;p&gt;What once started small is set to become really big in the next 10 years! We want to set a new benchmark in the market and give all companies out there the opportunity to use their full digital potential in a customized way. We work every day to become the most modern, innovative and fastest-growing IT consultancy, unrivaled in progress and technological excellence.&lt;/p&gt;
@@ -353,9 +353,9 @@ Our passion for technological excellence drives our success. Many small, medium 
     
     <item>
       <title>Our History</title>
-      <link>https://uRemotech.de/en/about/history/</link>
+      <link>localhost/en/about/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uRemotech.de/en/about/history/</guid>
+      <guid>localhost/en/about/history/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;I myself was employed as an IT consultant. I implemented projects for customers and advised them. I kept asking myself the question: Why do we always do it the same way? There&amp;rsquo;s a much more efficient way! I had a vision and a goal: my aim is to reinterpret the world of IT consulting in order to change the status quo.&lt;/p&gt;
 &lt;p&gt;I wanted to make processes more efficient, be freer in the execution of my work, give customers an even better experience and work with people who pursue the same goals as I do.&lt;/p&gt;
@@ -380,10 +380,10 @@ Our passion for technological excellence drives our success. Many small, medium 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/pages/our_story_hu1c83e09bb9400a8ee6c3bc7a67ce75d9_55616_c5bae4a386834c8868f81a0aafe20f30.webp 400w,
-               /media/pages/our_story_hu1c83e09bb9400a8ee6c3bc7a67ce75d9_55616_1687da47bed3092be3ef2189c5453ca9.webp 760w,
-               /media/pages/our_story_hu1c83e09bb9400a8ee6c3bc7a67ce75d9_55616_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://uRemotech.de/media/pages/our_story_hu1c83e09bb9400a8ee6c3bc7a67ce75d9_55616_c5bae4a386834c8868f81a0aafe20f30.webp&#34;
+               localhost/media/pages/our_story_hu3996292760586740670.webp 400w,
+               localhost/media/pages/our_story_hu2560068040719710360.webp 760w,
+               localhost/media/pages/our_story_hu11842833182360276360.webp 1200w&#34;
+               src=&#34;localhost/media/pages/our_story_hu3996292760586740670.webp&#34;
                width=&#34;721&#34;
                height=&#34;657&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -404,12 +404,12 @@ I am proud of my growing team that shares these values! Today, we are joined by 
     
     <item>
       <title>Our Team</title>
-      <link>https://uRemotech.de/en/about/team/</link>
+      <link>localhost/en/about/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uRemotech.de/en/about/team/</guid>
+      <guid>localhost/en/about/team/</guid>
       <description>&lt;div class=&#34;team-container&#34;&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Lennart_circle.jpg&#34; alt=&#34;Lennart Foto&#34;&gt;
+    &lt;img src=&#34;localhost/team/Lennart_circle.jpg&#34; alt=&#34;Lennart Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Lennart&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;Geschäftsführer /&lt;br&gt; IT-Berater (DevOps)&lt;/span&gt;
@@ -417,7 +417,7 @@ I am proud of my growing team that shares these values! Today, we are joined by 
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Azzurra_circle.jpg&#34; alt=&#34;Azzurra Foto&#34;&gt;
+    &lt;img src=&#34;localhost/team/Azzurra_circle.jpg&#34; alt=&#34;Azzurra Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Azzurra&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;Assistenz der Geschäftsführung / Recruiterin&lt;/span&gt;
@@ -425,9 +425,9 @@ I am proud of my growing team that shares these values! Today, we are joined by 
       She always finds the best talent for our team and is characterised by her ability to improve team dynamics and create a positive working environment.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;break&#34;&gt;&lt;/div&gt;
+  &lt;!-- &lt;div class=&#34;break&#34;&gt;&lt;/div&gt; --&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Jan_circle.jpg&#34; alt=&#34;Jan Foto&#34;&gt;
+    &lt;img src=&#34;localhost/team/Jan_circle.jpg&#34; alt=&#34;Jan Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Jan&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;IT-Berater (Fullstack)&lt;/span&gt;
@@ -436,7 +436,7 @@ I am proud of my growing team that shares these values! Today, we are joined by 
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Tobias_circle.jpg&#34; alt=&#34;Tobias Foto&#34;&gt;
+    &lt;img src=&#34;localhost/team/Tobias_circle.jpg&#34; alt=&#34;Tobias Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Tobias&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;IT-Berater (DevOps)&lt;/span&gt;
@@ -444,9 +444,18 @@ I am proud of my growing team that shares these values! Today, we are joined by 
       Technologies like Kubernetes, GitOps and Helm are his daily bread.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;!-- &lt;div class=&#34;break&#34;&gt;&lt;/div&gt; --&gt;
   &lt;!-- &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Tim_circle.jpg&#34; alt=&#34;Tim Foto&#34;&gt;
+    &lt;img src=&#34;localhost/team/Kai_circle.jpg&#34; alt=&#34;Tobias Foto&#34;&gt;
+    &lt;div class=&#34;details&#34;&gt;
+      &lt;span class=&#34;name&#34;&gt;Kai&lt;/span&gt;&lt;br&gt;
+      &lt;span class=&#34;job-title&#34;&gt;IT-Berater (DevOps)&lt;/span&gt;
+      &lt;p class=&#34;description&#34;&gt;Kai has been working in the IT industry since 2015 and specialises in the automation and management of IT infrastructures.&lt;br&gt;
+      His core competences lie in Ansible, GitLab and Kubernetes.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt; --&gt;
+  &lt;!-- &lt;div class=&#34;break&#34;&gt;&lt;/div&gt; --&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;localhost/team/Tim_circle.jpg&#34; alt=&#34;Tim Foto&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Tim&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;ext. IT-Berater (Backend)&lt;/span&gt;
@@ -454,15 +463,15 @@ I am proud of my growing team that shares these values! Today, we are joined by 
       With his in-depth expertise in Java, Kotlin and Quarkus, he actively supports us.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-&lt;/div&gt; --&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Our Values</title>
-      <link>https://uRemotech.de/en/about/values/</link>
+      <link>localhost/en/about/values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uRemotech.de/en/about/values/</guid>
+      <guid>localhost/en/about/values/</guid>
       <description>&lt;h4 id=&#34;1-passion&#34;&gt;1. Passion&lt;/h4&gt;
 &lt;p&gt;Motivation gives us the impetus to take the first step. Consistency is the key to achieving our goals. We are dedicated and passionate about both our customers and our own team. We are prepared to go the extra mile to promote growth - not only for our customers, but also in our own company.&lt;/p&gt;
 &lt;h4 id=&#34;2-achieving-more-together&#34;&gt;2. Achieving more together&lt;/h4&gt;
