@@ -2,229 +2,229 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/en/jobs/</loc>
+    <loc>https://uRemotech.de/en/jobs/</loc>
     <lastmod>2024-07-09T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/jobs/"
+                href="https://uRemotech.de/jobs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/jobs/"
+                href="https://uRemotech.de/en/jobs/"
                 />
   </url><url>
-    <loc>localhost/en/</loc>
+    <loc>https://uRemotech.de/en/</loc>
     <lastmod>2024-07-09T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/"
+                href="https://uRemotech.de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/"
+                href="https://uRemotech.de/en/"
                 />
   </url><url>
-    <loc>localhost/en/jobs/sales-b2b-outbound/</loc>
+    <loc>https://uRemotech.de/en/jobs/sales-b2b-outbound/</loc>
     <lastmod>2024-07-09T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/jobs/sales-b2b-outbound/"
+                href="https://uRemotech.de/jobs/sales-b2b-outbound/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/jobs/sales-b2b-outbound/"
+                href="https://uRemotech.de/en/jobs/sales-b2b-outbound/"
                 />
   </url><url>
-    <loc>localhost/en/jobs/senior-spryker-developer/</loc>
+    <loc>https://uRemotech.de/en/jobs/senior-spryker-developer/</loc>
     <lastmod>2024-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/jobs/senior-spryker-developer/"
+                href="https://uRemotech.de/jobs/senior-spryker-developer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/jobs/senior-spryker-developer/"
+                href="https://uRemotech.de/en/jobs/senior-spryker-developer/"
                 />
   </url><url>
-    <loc>localhost/en/appointment/</loc>
+    <loc>https://uRemotech.de/en/appointment/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/appointment/"
+                href="https://uRemotech.de/appointment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/appointment/"
+                href="https://uRemotech.de/en/appointment/"
                 />
   </url><url>
-    <loc>localhost/en/jobs/consultant-cloud-engineer/</loc>
+    <loc>https://uRemotech.de/en/jobs/consultant-cloud-engineer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/jobs/consultant-cloud-engineer/"
+                href="https://uRemotech.de/jobs/consultant-cloud-engineer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/jobs/consultant-cloud-engineer/"
+                href="https://uRemotech.de/en/jobs/consultant-cloud-engineer/"
                 />
   </url><url>
-    <loc>localhost/en/jobs/consultant-devops-engineer/</loc>
+    <loc>https://uRemotech.de/en/jobs/consultant-devops-engineer/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/jobs/consultant-devops-engineer/"
+                href="https://uRemotech.de/jobs/consultant-devops-engineer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/jobs/consultant-devops-engineer/"
+                href="https://uRemotech.de/en/jobs/consultant-devops-engineer/"
                 />
   </url><url>
-    <loc>localhost/en/terms/</loc>
+    <loc>https://uRemotech.de/en/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/terms/"
+                href="https://uRemotech.de/terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/terms/"
+                href="https://uRemotech.de/en/terms/"
                 />
   </url><url>
-    <loc>localhost/en/privacy/</loc>
+    <loc>https://uRemotech.de/en/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/privacy/"
+                href="https://uRemotech.de/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/privacy/"
+                href="https://uRemotech.de/en/privacy/"
                 />
   </url><url>
-    <loc>localhost/en/about/</loc>
+    <loc>https://uRemotech.de/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/about/"
+                href="https://uRemotech.de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/about/"
+                href="https://uRemotech.de/en/about/"
                 />
   </url><url>
-    <loc>localhost/en/career/</loc>
+    <loc>https://uRemotech.de/en/career/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/career/"
+                href="https://uRemotech.de/career/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/career/"
+                href="https://uRemotech.de/en/career/"
                 />
   </url><url>
-    <loc>localhost/en/authors/</loc>
+    <loc>https://uRemotech.de/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/authors/"
+                href="https://uRemotech.de/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/authors/"
+                href="https://uRemotech.de/en/authors/"
                 />
   </url><url>
-    <loc>localhost/en/categories/</loc>
+    <loc>https://uRemotech.de/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/categories/"
+                href="https://uRemotech.de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/categories/"
+                href="https://uRemotech.de/en/categories/"
                 />
   </url><url>
-    <loc>localhost/en/about/vision/</loc>
+    <loc>https://uRemotech.de/en/about/vision/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/about/vision/"
+                href="https://uRemotech.de/about/vision/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/about/vision/"
+                href="https://uRemotech.de/en/about/vision/"
                 />
   </url><url>
-    <loc>localhost/en/about/history/</loc>
+    <loc>https://uRemotech.de/en/about/history/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/about/history/"
+                href="https://uRemotech.de/about/history/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/about/history/"
+                href="https://uRemotech.de/en/about/history/"
                 />
   </url><url>
-    <loc>localhost/en/about/team/</loc>
+    <loc>https://uRemotech.de/en/about/team/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/about/team/"
+                href="https://uRemotech.de/about/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/about/team/"
+                href="https://uRemotech.de/en/about/team/"
                 />
   </url><url>
-    <loc>localhost/en/about/values/</loc>
+    <loc>https://uRemotech.de/en/about/values/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/about/values/"
+                href="https://uRemotech.de/about/values/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/about/values/"
+                href="https://uRemotech.de/en/about/values/"
                 />
   </url><url>
-    <loc>localhost/en/tags/</loc>
+    <loc>https://uRemotech.de/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="localhost/tags/"
+                href="https://uRemotech.de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="localhost/en/tags/"
+                href="https://uRemotech.de/en/tags/"
                 />
   </url>
 </urlset>

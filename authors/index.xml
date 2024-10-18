@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | uRemoTech – IT-Beratung</title>
-    <link>localhost/authors/</link>
-      <atom:link href="localhost/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://uRemotech.de/authors/</link>
+      <atom:link href="https://uRemotech.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language>
     <image>
-      <url>localhost/media/logo_hu15029807518345716135.png</url>
+      <url>https://uRemotech.de/media/logo_hu15029807518345716135.png</url>
       <title>Authors</title>
-      <link>localhost/authors/</link>
+      <link>https://uRemotech.de/authors/</link>
     </image>
     
   </channel>

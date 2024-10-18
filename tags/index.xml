@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | uRemoTech – IT-Beratung</title>
-    <link>localhost/tags/</link>
-      <atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://uRemotech.de/tags/</link>
+      <atom:link href="https://uRemotech.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-de</language>
     <image>
-      <url>localhost/media/logo_hu15029807518345716135.png</url>
+      <url>https://uRemotech.de/media/logo_hu15029807518345716135.png</url>
       <title>Tags</title>
-      <link>localhost/tags/</link>
+      <link>https://uRemotech.de/tags/</link>
     </image>
     
   </channel>
