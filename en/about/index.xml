@@ -85,7 +85,7 @@ I am proud of my growing team that shares these values! Today, we are joined by 
       <guid>https://uRemotech.de/en/about/team/</guid>
       <description>&lt;div class=&#34;team-container&#34;&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Lennart_circle.jpg&#34; alt=&#34;Lennart Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Lennart_circle.jpg&#34; alt=&#34;Lennart Foto&#34; class=&#34;avatar-circle&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Lennart&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;Geschäftsführer /&lt;br&gt; IT-Berater (DevOps)&lt;/span&gt;
@@ -93,7 +93,7 @@ I am proud of my growing team that shares these values! Today, we are joined by 
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Azzurra_circle.jpg&#34; alt=&#34;Azzurra Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Azzurra_circle.jpg&#34; alt=&#34;Azzurra Foto&#34; class=&#34;avatar-circle&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Azzurra&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;Assistenz der Geschäftsführung / Recruiterin&lt;/span&gt;
@@ -103,7 +103,7 @@ I am proud of my growing team that shares these values! Today, we are joined by 
   &lt;/div&gt;
   &lt;div class=&#34;break&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Jan_circle.jpg&#34; alt=&#34;Jan Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Jan_circle.jpg&#34; alt=&#34;Jan Foto&#34; class=&#34;avatar-circle&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Jan&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;IT-Berater (Fullstack)&lt;/span&gt;
@@ -112,7 +112,7 @@ I am proud of my growing team that shares these values! Today, we are joined by 
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Tobias_circle.jpg&#34; alt=&#34;Tobias Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Tobias_circle.jpg&#34; alt=&#34;Tobias Foto&#34; class=&#34;avatar-circle&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Tobias&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;IT-Berater (DevOps)&lt;/span&gt;
@@ -122,7 +122,7 @@ I am proud of my growing team that shares these values! Today, we are joined by 
   &lt;/div&gt;
   &lt;!-- &lt;div class=&#34;break&#34;&gt;&lt;/div&gt; --&gt;
   &lt;!-- &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://uRemotech.de/team/Tim_circle.jpg&#34; alt=&#34;Tim Foto&#34;&gt;
+    &lt;img src=&#34;https://uRemotech.de/team/Tim_circle.jpg&#34; alt=&#34;Tim Foto&#34; class=&#34;avatar-circle&#34;&gt;
     &lt;div class=&#34;details&#34;&gt;
       &lt;span class=&#34;name&#34;&gt;Tim&lt;/span&gt;&lt;br&gt;
       &lt;span class=&#34;job-title&#34;&gt;ext. IT-Berater (Backend)&lt;/span&gt;
