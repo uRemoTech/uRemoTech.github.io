@@ -155,6 +155,18 @@
                 href="https://uRemotech.de/en/authors/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/en/author/azzurra/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/author/azzurra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/author/azzurra/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -165,6 +177,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://uRemotech.de/en/categories/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/author/lennart/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/author/lennart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/author/lennart/"
                 />
   </url><url>
     <loc>https://uRemotech.de/en/about/vision/</loc>
@@ -225,6 +249,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://uRemotech.de/en/tags/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/author/tobias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/author/tobias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/author/tobias/"
                 />
   </url>
 </urlset>
