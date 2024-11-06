@@ -180,6 +180,16 @@
                 />
   </url><url>
     <loc>https://uRemotech.de/author/jan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/author/jan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/author/jan/"
+                />
   </url><url>
     <loc>https://uRemotech.de/author/lennart/</loc>
     <xhtml:link
