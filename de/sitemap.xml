@@ -167,6 +167,18 @@
                 href="https://uRemotech.de/categories/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/author/cihat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/author/cihat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/author/cihat/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/career/</loc>
     <xhtml:link
                 rel="alternate"
