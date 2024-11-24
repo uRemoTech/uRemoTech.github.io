@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://uRemotech.de/</loc>
+    <lastmod>2024-07-09T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/jobs/sales-b2b-outbound/</loc>
     <lastmod>2024-07-09T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -26,19 +39,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://uRemotech.de/jobs/"
-                />
-  </url><url>
-    <loc>https://uRemotech.de/</loc>
-    <lastmod>2024-07-09T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/"
                 />
   </url><url>
     <loc>https://uRemotech.de/jobs/consultant-cloud-engineer/</loc>
@@ -260,6 +260,18 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://uRemotech.de/about/history/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/references/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/references/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/references/"
                 />
   </url><url>
     <loc>https://uRemotech.de/about/values/</loc>
