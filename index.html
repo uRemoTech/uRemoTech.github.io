@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 10. Januar 2025 --><html lang="de-de" >
+<!-- Last Published: 12. Januar 2025 --><html lang="de-de" >
 
 
 <head>
@@ -226,7 +226,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.bf3da7b7b54f29ecabecd8fedf09da93.css" />
+  <link rel="stylesheet" href="/css/wowchemy.e872afbcbcb27bbf1083c82f5cafd5fb.css" />
 
   
   
@@ -1335,7 +1335,7 @@
 
 
 
-<section id="potential" class="home-section wg-features-wide  home-potential"  >
+<section id="potential" class="home-section wg-markdown-accordion  home-potential"  >
  <div class="home-section-bg " >
    
  </div>
@@ -1367,10 +1367,15 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Fachkräfte- und Ressourcenknappheit</div>
-    <p>Der Mangel an IT-Experten ist eine der größten Hürden, vor allem bei begrenzten Budgets und strikten Personalvorgaben. Überlastete Teams kommen an ihre Grenzen, wodurch Effizienz und Innovationskraft leiden. Mit unserer Unterstützung sicherst Du Dir die Expertise, die Dein Team entlastet und Dein Projekt nach vorne bringt.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Fachkräfte- und Ressourcenknappheit</button>
+    </div>
+    <div class="panel">
+      <p>Der Mangel an IT-Experten ist eine der größten Hürden, vor allem bei begrenzten Budgets und strikten Personalvorgaben. Überlastete Teams kommen an ihre Grenzen, wodurch Effizienz und Innovationskraft leiden. Mit unserer Unterstützung sicherst Du Dir die Expertise, die Dein Team entlastet und Dein Projekt nach vorne bringt.</p>
+    </div>
+
   </div>
   
   
@@ -1378,10 +1383,15 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Verzögerungen und Zeitdruck</div>
-    <p>Strikte Deadlines und plötzliche Engpässe können Projekte ins Stocken bringen – und das ausgerechnet, wenn es auf Geschwindigkeit ankommt. Flexibel skalierbare Teams schaffen den Spielraum, um Liefertermine einzuhalten und die Time-to-Market zu verkürzen. Wir helfen Dir, agil zu bleiben und immer einen Schritt voraus zu sein.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Verzögerungen und Zeitdruck</button>
+    </div>
+    <div class="panel">
+      <p>Strikte Deadlines und plötzliche Engpässe können Projekte ins Stocken bringen und das ausgerechnet, wenn es auf Geschwindigkeit ankommt. Flexibel skalierbare Teams schaffen den Spielraum, um Liefertermine einzuhalten und die Time-to-Market zu verkürzen. Wir helfen Dir, agil zu bleiben und immer einen Schritt voraus zu sein.</p>
+    </div>
+
   </div>
   
   
@@ -1389,10 +1399,15 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Kosten im Griff, Effizienz im Fokus</div>
-    <p>Wenn Budgets knapp und Prozesse ineffizient sind, geraten Projekte schnell in Schieflage. Unsere Lösungen optimieren Deine Ressourcennutzung und sparen Dir Zeit und Kosten bei der Suche nach hochqualifizierten Spezialisten. So kannst Du wirtschaftlich und nachhaltig wachsen.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Kosten im Griff, Effizienz im Fokus</button>
+    </div>
+    <div class="panel">
+      <p>Wenn Budgets knapp und Prozesse ineffizient sind, geraten Projekte schnell in Schieflage. Unsere Lösungen optimieren Deine Ressourcennutzung und sparen Dir Zeit und Kosten bei der Suche nach hochqualifizierten Spezialisten. So kannst Du wirtschaftlich und nachhaltig wachsen.</p>
+    </div>
+
   </div>
   
   
@@ -1400,13 +1415,35 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Qualität sichern, Innovation vorantreiben</div>
-    <p>Ressourcenknappheit und Druck gefährden oft die Softwarequalität – und damit auch den Markterfolg. Wir bieten Zugang zu modernsten Technologien und innovativen Lösungen, damit Du nicht nur mithalten, sondern die Richtung vorgeben kannst.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Qualität sichern, Innovation vorantreiben</button>
+    </div>
+    <div class="panel">
+      <p>Ressourcenknappheit und Druck gefährden oft die Softwarequalität und damit auch den Markterfolg. Wir bieten Zugang zu modernsten Technologien und innovativen Lösungen, damit Du nicht nur mithalten, sondern die Richtung vorgeben kannst.</p>
+    </div>
+
   </div>
   
 </div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.parentElement.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
 
 
   
@@ -1517,7 +1554,7 @@
     <div class="featurette-icon"><i class="fas fa-diagram-project"></i></div>
     
     <div class="section-subheading"><strong>Softwareentwicklung –</strong><br />Maßgeschneiderte Lösungen, die begeistern</div>
-    <p>Du suchst eine Software, die perfekt auf die Anforderungen Deines Unternehmens abgestimmt ist? Wir realisieren komplette Projekte von der ersten Idee über Design bis hin zur Implementierung. Egal, ob es sich um brandneue Anwendungen oder die Weiterentwicklung bestehender Systeme handelt – wir sorgen dafür, dass alles reibungslos zusammenpasst und Deine IT-Ziele nachhaltig unterstützt.</p>
+    <p>Du suchst eine Software, die perfekt auf die Anforderungen Deines Unternehmens abgestimmt ist? Wir realisieren komplette Projekte von der ersten Idee über Design bis hin zur Implementierung. Egal, ob es sich um brandneue Anwendungen oder die Weiterentwicklung bestehender Systeme handelt, wir sorgen dafür, dass alles reibungslos zusammenpasst und Deine IT-Ziele nachhaltig unterstützt.</p>
   </div>
   
   
@@ -1530,7 +1567,7 @@
     <div class="featurette-icon"><i class="fas fa-users"></i></div>
     
     <div class="section-subheading"><strong>IT-Experten on Demand –</strong><br />flexibel und schnell verfügbar</div>
-    <p>Dein Projekt braucht kurzfristig Unterstützung oder spezielles Fachwissen? Unsere IT-Berater stehen bereit, um Dein Team gezielt zu verstärken. Ob bei Engpässen, Projektspitzen oder für spezifische Aufgaben – wir sorgen dafür, dass Dein Projekt auf Kurs bleibt, ohne dass Du langfristige Verpflichtungen eingehen musst.</p>
+    <p>Dein Projekt braucht kurzfristig Unterstützung oder spezielles Fachwissen? Unsere IT-Berater stehen bereit, um Dein Team gezielt zu verstärken. Ob bei Engpässen, Projektspitzen oder für spezifische Aufgaben, wir sorgen dafür, dass Dein Projekt auf Kurs bleibt, ohne dass Du langfristige Verpflichtungen eingehen musst.</p>
   </div>
   
   
