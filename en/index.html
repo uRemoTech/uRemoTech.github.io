@@ -1335,7 +1335,7 @@
 
 
 
-<section id="potential" class="home-section wg-features-wide  home-potential"  >
+<section id="potential" class="home-section wg-markdown-accordion  home-potential"  >
  <div class="home-section-bg " >
    
  </div>
@@ -1367,10 +1367,15 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Shortage of Specialists and Resources</div>
-    <p>The lack of IT experts is one of the biggest hurdles, especially with limited budgets and strict staffing constraints. Overburdened teams reach their limits, affecting efficiency and innovation. With our support, you’ll secure the expertise to relieve your team and drive your project forward.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Shortage of Specialists and Resources</button>
+    </div>
+    <div class="panel">
+      <p>The lack of IT experts is one of the biggest hurdles, especially with limited budgets and strict staffing constraints. Overburdened teams reach their limits, affecting efficiency and innovation. With our support, you’ll secure the expertise to relieve your team and drive your project forward.</p>
+    </div>
+
   </div>
   
   
@@ -1378,10 +1383,15 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Delays and Time Pressure</div>
-    <p>Tight deadlines and sudden bottlenecks can bring projects to a standstill—especially when speed is crucial. Flexibly scalable teams create the room to meet delivery schedules and reduce time-to-market. We help you stay agile and always one step ahead.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Delays and Time Pressure</button>
+    </div>
+    <div class="panel">
+      <p>Tight deadlines and sudden bottlenecks can bring projects to a standstill especially when speed is crucial. Flexibly scalable teams create the room to meet delivery schedules and reduce time-to-market. We help you stay agile and always one step ahead.</p>
+    </div>
+
   </div>
   
   
@@ -1389,10 +1399,15 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Controlling Costs, Focusing on Efficiency</div>
-    <p>When budgets are tight and processes inefficient, projects can quickly go off track. Our solutions optimize your resource use and save you time and money in finding highly qualified specialists. This lets you grow sustainably and economically.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Controlling Costs, Focusing on Efficiency</button>
+    </div>
+    <div class="panel">
+      <p>When budgets are tight and processes inefficient, projects can quickly go off track. Our solutions optimize your resource use and save you time and money in finding highly qualified specialists. This lets you grow sustainably and economically.</p>
+    </div>
+
   </div>
   
   
@@ -1400,13 +1415,35 @@
   
     
   
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-8">
     
-    <div class="section-subheading">Ensuring Quality, Driving Innovation</div>
-    <p>Resource shortages and pressure often jeopardize software quality—and with it, market success. We offer access to cutting-edge technologies and innovative solutions so you can not only keep up but lead the way.</p>
+    <div class="section-subheading">
+      <button class="btn btn-primary accordion">Ensuring Quality, Driving Innovation</button>
+    </div>
+    <div class="panel">
+      <p>Resource shortages and pressure often jeopardize software quality and with it, market success. We offer access to cutting-edge technologies and innovative solutions so you can not only keep up but lead the way.</p>
+    </div>
+
   </div>
   
 </div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.parentElement.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
 
 
   
