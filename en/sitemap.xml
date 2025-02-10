@@ -216,6 +216,18 @@
                 href="https://uRemotech.de/en/author/jan/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/en/author/jana/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/author/jana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/author/jana/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/en/author/lennart/</loc>
     <xhtml:link
                 rel="alternate"
