@@ -106,17 +106,17 @@
                 href="https://uRemotech.de/en/jobs/consultant-fullstack-developer/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/en/terms/</loc>
+    <loc>https://uRemotech.de/en/imprint/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://uRemotech.de/terms/"
+                href="https://uRemotech.de/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://uRemotech.de/en/terms/"
+                href="https://uRemotech.de/en/imprint/"
                 />
   </url><url>
     <loc>https://uRemotech.de/en/privacy/</loc>
@@ -130,6 +130,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://uRemotech.de/en/privacy/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/terms/"
                 />
   </url><url>
     <loc>https://uRemotech.de/en/about/</loc>
