@@ -106,7 +106,7 @@
                 href="https://uRemotech.de/appointment/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/terms/</loc>
+    <loc>https://uRemotech.de/agb/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -116,10 +116,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://uRemotech.de/terms/"
+                href="https://uRemotech.de/agb/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/privacy/</loc>
+    <loc>https://uRemotech.de/datenschutz/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -129,10 +129,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://uRemotech.de/privacy/"
+                href="https://uRemotech.de/datenschutz/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/imprint/</loc>
+    <loc>https://uRemotech.de/impressum/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -142,7 +142,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://uRemotech.de/imprint/"
+                href="https://uRemotech.de/impressum/"
                 />
   </url><url>
     <loc>https://uRemotech.de/about/</loc>
