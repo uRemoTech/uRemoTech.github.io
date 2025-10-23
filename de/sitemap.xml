@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://uRemotech.de/</loc>
-    <lastmod>2024-07-09T00:00:00+01:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -14,6 +14,22 @@
                 hreflang="de-de"
                 href="https://uRemotech.de/"
                 />
+  </url><url>
+    <loc>https://uRemotech.de/jobs/</loc>
+    <lastmod>2025-10-23T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/jobs/vermittlung-consultant-systemadministrator/</loc>
+    <lastmod>2025-10-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://uRemotech.de/jobs/sales-b2b-outbound/</loc>
     <lastmod>2024-07-09T00:00:00+01:00</lastmod>
@@ -26,19 +42,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://uRemotech.de/jobs/sales-b2b-outbound/"
-                />
-  </url><url>
-    <loc>https://uRemotech.de/jobs/</loc>
-    <lastmod>2024-07-09T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/jobs/"
                 />
   </url><url>
     <loc>https://uRemotech.de/jobs/consultant-backend-developer/</loc>
