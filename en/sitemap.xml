@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://uRemotech.de/en/</loc>
-    <lastmod>2025-10-23T00:00:00+01:00</lastmod>
+    <lastmod>2025-12-31T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -15,8 +15,21 @@
                 href="https://uRemotech.de/en/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/en/jobs/recruit-sysadmin-biebesheim/</loc>
+    <lastmod>2025-12-31T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/recruit-sysadmin-biebesheim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/recruit-sysadmin-biebesheim/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/en/jobs/</loc>
-    <lastmod>2025-10-23T00:00:00+01:00</lastmod>
+    <lastmod>2025-12-31T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -28,8 +41,57 @@
                 href="https://uRemotech.de/en/jobs/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/en/jobs/recruiting-consultant-systemadministrator/</loc>
+    <loc>https://uRemotech.de/en/jobs/recruit-projectmanager-worms/</loc>
+    <lastmod>2025-12-31T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/recruit-projectmanager-worms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/recruit-projectmanager-worms/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/jobs/consultant-java-fullstack-developer/</loc>
+    <lastmod>2025-12-31T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/consultant-java-fullstack-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/consultant-java-fullstack-developer/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/jobs/consultant-sre-platform-engineer/</loc>
+    <lastmod>2025-12-31T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/consultant-sre-platform-engineer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/consultant-sre-platform-engineer/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/jobs/recruit-consult-sysadmin-westerstede/</loc>
     <lastmod>2025-10-23T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/jobs/recruit-consult-sysadmin-westerstede/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/jobs/recruit-consult-sysadmin-westerstede/"
+                />
   </url><url>
     <loc>https://uRemotech.de/en/appointment/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
@@ -95,18 +157,6 @@
                 href="https://uRemotech.de/en/about/"
                 />
   </url><url>
-    <loc>https://uRemotech.de/en/career/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/career/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/career/"
-                />
-  </url><url>
     <loc>https://uRemotech.de/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -165,6 +215,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://uRemotech.de/en/author/jana/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/career/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/career/"
                 />
   </url><url>
     <loc>https://uRemotech.de/en/author/lennart/</loc>
