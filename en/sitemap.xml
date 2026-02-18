@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://uRemotech.de/en/</loc>
-    <lastmod>2025-12-31T00:00:00+01:00</lastmod>
+    <lastmod>2026-02-18T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://uRemotech.de/en/"
+                />
+  </url><url>
+    <loc>https://uRemotech.de/en/agb/</loc>
+    <lastmod>2026-02-18T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/agb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/agb/"
                 />
   </url><url>
     <loc>https://uRemotech.de/en/jobs/recruit-sysadmin-biebesheim/</loc>
@@ -93,6 +106,19 @@
                 href="https://uRemotech.de/en/jobs/recruit-consult-sysadmin-westerstede/"
                 />
   </url><url>
+    <loc>https://uRemotech.de/en/agb-2025-08-23/</loc>
+    <lastmod>2025-05-23T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://uRemotech.de/agb-2025-08-23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://uRemotech.de/en/agb-2025-08-23/"
+                />
+  </url><url>
     <loc>https://uRemotech.de/en/appointment/</loc>
     <lastmod>2023-02-26T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -130,19 +156,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://uRemotech.de/en/privacy/"
-                />
-  </url><url>
-    <loc>https://uRemotech.de/en/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://uRemotech.de/agb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://uRemotech.de/en/terms/"
                 />
   </url><url>
     <loc>https://uRemotech.de/en/about/</loc>
